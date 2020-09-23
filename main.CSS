@@ -1,0 +1,82 @@
+body {
+    background-color: #eeeeee;
+}
+
+.TituloPrincipal {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: rgb(4, 75, 1);
+}
+
+#BarraNavegacion {
+    background-color: #eeeeee;
+    text-align: center;
+}
+
+#BarraNavegacion ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#BarraNavegacion ul li {
+    display: inline-block;
+}
+
+#BarraNavegacion ul li a {
+    color: rgb(68, 67, 67);
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#BarraNavegacion ul li a:hover {
+    background-color: #ccf0c6;
+}
+
+.Titulos {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(19, 92, 9);
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.Subtitulos {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(39, 92, 33);
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.Informacion {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(68, 67, 67);
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
+
+.pie{
+
+    margin-left: 20px;
+    font-size: small;
+
+}
+
+h3 {
+    color: rgb(11, 80, 4);
+}
+
+b {
+    color: rgb(11, 80, 4);
+}
+
+ul {
+    list-style-image: url("https://img.icons8.com/plasticine/20/000000/leaf.png")
+}
